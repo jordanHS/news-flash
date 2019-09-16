@@ -1,8 +1,9 @@
-.well {
+.jumbotron {
   background-color: #c3c9c9;
   text-align: center;
   font-size: 64px;
   font-family: monospace;
+  text-decoration: underline;
 }
 
 #city-name {
@@ -16,21 +17,28 @@
 
 
 div {
-  padding-bottom: 50px;
+  padding: 50px;
 }
+
 
 .card-header {
   background-color: #9ba3b0;
   font-family: monospace;
   font-size: 24px;
   text-align: center;
+  width: 400px;
 }
 
 .card-body {
   background-color: #c0c2c4;
-  height: 200px
+  height: 400px;
+  width: 400px;
+
 }
 
-div {
-  background-color: #dedede
+.container {
+  background-color: #dedede;
+}
+#subtitle {
+  font-size: 32px;
 }
