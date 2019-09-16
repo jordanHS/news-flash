@@ -1,0 +1,36 @@
+.well {
+  background-color: #c3c9c9;
+  text-align: center;
+  font-size: 64px;
+  font-family: monospace;
+}
+
+#city-name {
+  width: 300px;
+}
+
+#input-text {
+  font-family: monospace;
+  font-size: 24px;
+}
+
+
+div {
+  padding-bottom: 50px;
+}
+
+.card-header {
+  background-color: #9ba3b0;
+  font-family: monospace;
+  font-size: 24px;
+  text-align: center;
+}
+
+.card-body {
+  background-color: #c0c2c4;
+  height: 200px
+}
+
+div {
+  background-color: #dedede
+}
